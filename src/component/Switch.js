@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import styles from "./Switch.module.css";
 const Switch = (props) => {
   let initialSwitchState = {
