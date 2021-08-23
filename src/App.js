@@ -5,8 +5,8 @@ import Switch from "./component/Switch";
 function App() {
   return (
     <div className="App">
-      <Switch />
-      <Switch />
+      <Switch default="OFF" />
+      <Switch default="ON" />
     </div>
   );
 }

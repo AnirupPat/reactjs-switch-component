@@ -1,0 +1,14 @@
+.button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+
+.on {
+  background: green !important;
+}
+
+.off {
+  background: red !important;
+}
